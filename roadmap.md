@@ -49,6 +49,26 @@ Prio|Configure|Version|Package|Deploy|Run|Monitor
 :-|-|-|-|-|-|-
 1|[Terraform](https://www.terraform.io/)|[Git](https://git-scm.com/) + [GitHub](https://github.com/)|[Docker](https://www.docker.com/)|[Jenkins](https://www.jenkins.io/)|[ECS](https://en.wikipedia.org/wiki/Entity_component_system)|[ELK Stack](https://www.elastic.co/what-is/elk-stack)
 2|[Ansible](https://www.ansible.com/)|[GitLab](https://about.gitlab.com/)|[Lambda](https://aws.amazon.com/lambda/)|[CodeDeploy](https://aws.amazon.com/codedeploy/)|[Kubernetes](https://kubernetes.io/)|[Prometheus](https://prometheus.io/)
+||[Mastering Ansible](https://www.packtpub.com/product/mastering-ansible/9781784395483)||||[Mastering Kubernetes](https://www.packtpub.com/product/mastering-kubernetes/9781786461001)|
+||||||[DevOps with Kubernetes](https://www.packtpub.com/product/devops-with-kubernetes/9781788396646)
+
+Book Links
+
+* [Practical Network Automation](https://www.packtpub.com/networking-and-servers/practical-network-automation)
+* [Mastering Kubernetes](https://www.packtpub.com/virtualization-and-cloud/mastering-kubernetes)
+* [Mastering Ansible](https://www.packtpub.com/virtualization-and-cloud/openstack-administration-ansible-2-second-edition)
+* [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes)
+* [Effective DevOps with AWS](https://www.packtpub.com/application-development/effective-devops-aws)
+* [Getting Started with Kubernetes, Second Edition](https://www.packtpub.com/virtualization-and-cloud/getting-started-kubernetes-second-edition)
+* [Mastering Docker](https://www.packtpub.com/virtualization-and-cloud/mastering-docker-second-edition)
+* [OpenStack Administration with Ansible 2](https://www.packtpub.com/virtualization-and-cloud/openstack-administration-ansible-2-second-edition)
+* [DevOps for Networking](https://www.packtpub.com/networking-and-servers/devops-networking)
+* [Automate it!](https://www.packtpub.com/application-development/automate-it)
+* [Puppet 5 Beginner's Guide](https://www.packtpub.com/networking-and-servers/puppet-5-beginner%E2%80%99s-guide-third-edition)
+* [Learning Continuous Integration with Jenkins](https://www.packtpub.com/virtualization-and-cloud/learning-continuous-integration-jenkins-second-edition)
+* [Continuous Delivery with Docker and Jenkins](https://www.packtpub.com/networking-and-servers/continuous-delivery-docker-and-jenkins)
+* [Deployment with Docker](https://www.packtpub.com/virtualization-and-cloud/deployment-docker)
+* [Docker and Kubernetes for Java Developers](https://www.packtpub.com/virtualization-and-cloud/docker-and-kubernetes-java-developers)
 
 ### Configure
 
