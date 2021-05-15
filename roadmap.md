@@ -49,8 +49,6 @@ Prio|Configure|Version|Package|Deploy|Run|Monitor
 :-|-|-|-|-|-|-
 1|[Terraform](https://www.terraform.io/)|[Git](https://git-scm.com/) + [GitHub](https://github.com/)|[Docker](https://www.docker.com/)|[Jenkins](https://www.jenkins.io/)|[ECS](https://en.wikipedia.org/wiki/Entity_component_system)|[ELK Stack](https://www.elastic.co/what-is/elk-stack)
 2|[Ansible](https://www.ansible.com/)|[GitLab](https://about.gitlab.com/)|[Lambda](https://aws.amazon.com/lambda/)|[CodeDeploy](https://aws.amazon.com/codedeploy/)|[Kubernetes](https://kubernetes.io/)|[Prometheus](https://prometheus.io/)
-||[Mastering Ansible](https://www.packtpub.com/product/mastering-ansible/9781784395483)||||[Mastering Kubernetes](https://www.packtpub.com/product/mastering-kubernetes/9781786461001)|
-||||||[DevOps with Kubernetes](https://www.packtpub.com/product/devops-with-kubernetes/9781788396646)
 
 Book Links
 
@@ -125,7 +123,7 @@ GitHub/GitLab
 * [How to Become a DevOps Engineer In Six Months or Less, Part 2: Configure](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-2-configure-a2dfc11f6f7d)
 * [How to Become a DevOps Engineer In Six Months or Less, Part 3: Version](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-3-version-76034885a7ab)
 * [How to Become a DevOps Engineer In Six Months or Less, Part 4: Package](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-4-package-47677ca2f058)
-[How to Become a DevOps Engineer In Six Months or Less, Part 5: Deploy](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-5-deploy-83e790545c23)
+* [How to Become a DevOps Engineer In Six Months or Less, Part 5: Deploy](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-5-deploy-83e790545c23)
 * [The Twelve-Factor App](https://12factor.net/)
 * [Terraform](https://www.terraform.io/)
 * [Ansible](https://www.ansible.com/)
